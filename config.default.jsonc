@@ -1,11 +1,11 @@
 {
-    "token": "Token",
+    "token": "1720641539:AAH3BDceO_a2vvblVcN6cX5fQvlyvX10Ikc",
     //"proxy-url": "socks5h://localhost:9090",
     "log-level": "debug",
     //"debug": true,
     "parser": "rss",
     "parser-config": {
-        "source": "https://pcworms.ir/rss2",
+        "source": "https://report.az/rss/",
         //"check-date": false, // just for debugging
         //"check-host": false, // just for debugging
         "post-template": "new post: <a href=\"{feed[link]}\">{feed[title]}</a>\n\n{feed[content]}"
